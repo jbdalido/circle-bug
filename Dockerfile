@@ -1,3 +1,3 @@
 FROM scratch
-
-COPY robots.txt /robots.txt
+COPY output /data
+COPY robots.txt /data
